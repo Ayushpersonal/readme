@@ -5,6 +5,8 @@
   <img alt="Al Siam — Full Stack Developer" src="assets/header-dark.svg" width="100%">
 </picture>
 
+![Header Animation](assets/kajol.gif)
+
 <!-- Profile Views -->
 <p align="right">
   <a href="https://github.com/Ayushpersonal">
